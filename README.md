@@ -20,3 +20,5 @@ Click on the link below to take the test:
 Test: Sintelix's Java Test
 Duration: This test normally takes 1h 30min, but you have up to 4h 30min (no breaks allowed).
 Deadline: Apr 4, 23:59 (UTC+9:30) (24-hour clock)
+
+# Jees, how do I know how to solve sum3 less than O(n)?
